@@ -391,7 +391,7 @@ fun DishTile(dish: Items, viewModel: MainViewModel) {
 
             Spacer(modifier = Modifier.height(8.dp))
 
-            // Quantity Selector with Animated Updates
+            // Quantity
             Row(
                 modifier = Modifier.fillMaxWidth(),
                 horizontalArrangement = Arrangement.SpaceBetween,
